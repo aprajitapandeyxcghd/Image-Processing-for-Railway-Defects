@@ -1,6 +1,4 @@
 # Image-Processing-for-Railway-Defects
-Here's a GitHub project description for your image analysis project:
-
 ---
 
 ### **Railway Track Defect Detection Using Image Processing and Clustering Techniques**
